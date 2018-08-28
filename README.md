@@ -6,4 +6,4 @@ An editor config allows us to set standard syntax rules for our whole team, rega
 
 Certain projects may also have a local `.editorconfig` file which overrides the root.
 
-To install the `.editorconfig` file in your home directory, run this command: `curl https://raw.github.com/Brandography/.editorconfig/master/.editorconfig > ~/.editorconfig`
+To install the `.editorconfig` file in your home directory, run this command: `curl https://raw.githubusercontent.com/Brandography/.editorconfig/master/.editorconfig > ~/.editorconfig`
