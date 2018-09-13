@@ -23,3 +23,8 @@ indent_size = 4
 ## JS/TS
 [*.{js, ts}]
 quote_type = single
+
+## Makefile
+[{Makefile,Makefile.*}]
+indent_style = tab
+indent_size = 4
