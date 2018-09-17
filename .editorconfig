@@ -28,3 +28,7 @@ quote_type = single
 [{Makefile,Makefile.*}]
 indent_style = tab
 indent_size = 4
+
+## csv
+[*.csv]
+insert_final_newline = false
